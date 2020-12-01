@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Liu | Ankith Mohan</title>
+    <link>https://ankithmo.github.io/author/jeremy-liu/</link>
+      <atom:link href="https://ankithmo.github.io/author/jeremy-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremy Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ankithmo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jeremy Liu</title>
+      <link>https://ankithmo.github.io/author/jeremy-liu/</link>
+    </image>
+    
+    <item>
+      <title>Boltzmann machine modeling of layered MoS2 synthesis on a quantum annealer</title>
+      <link>https://ankithmo.github.io/publication/liu-2020-boltzmann/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ankithmo.github.io/publication/liu-2020-boltzmann/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
